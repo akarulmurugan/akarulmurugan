@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Arul Murugan 👋
 
-<!--
-**akarulmurugan/akarulmurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cybersecurity Enthusiast | Ethical Hacking | Web Security
 
-Here are some ideas to get you started:
+## About Me
+- 🔐 Interested in Penetration Testing
+- 🐧 Kali Linux & Linux Enthusiast
+- 🌐 Learning Web Security & AD Exploitation
+- 🎯 Goal: Become a Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Linux
+- Networking
+- Active Directory
+- Python
+- HTML/CSS
+- Git & GitHub
+
+## Platforms
+- TryHackMe
+- Hack The Box
+
+## Projects
+- Portfolio Website
+- Security Scripts
+- Networking Labs
