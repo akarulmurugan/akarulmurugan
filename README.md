@@ -1,26 +1,217 @@
-# Hi, I'm Arul Murugan 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ARUL MURUGAN S — GitHub Profile             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🚀 Cybersecurity Enthusiast | Ethical Hacking | Web Security
+<div align="center">
 
-## About Me
-- 🔐 Interested in Penetration Testing
-- 🐧 Kali Linux & Linux Enthusiast
-- 🌐 Learning Web Security & AD Exploitation
-- 🎯 Goal: Become a Security Researcher
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;Arul+Murugan+S+%7C+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-## Skills
-- Linux
-- Networking
-- Active Directory
-- Python
-- HTML/CSS
-- Git & GitHub
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🔐 Penetration Tester in Training  |  Kali Linux User  🐉  ║
+║  🌐 Web Security  |  AD Exploitation  |  CTF Player  🎯     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## Platforms
-- TryHackMe
-- Hack The Box
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/akarulmurugan/Portfolio)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/akarulmurugan)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/akarulmurugan)
 
-## Projects
-- Portfolio Website
-- Security Scripts
-- Networking Labs
+![Profile Views](https://komarev.com/ghpvc/?username=akarulmurugan&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/akarulmurugan?color=00FF41&label=Followers&logo=github&style=flat-square)
+
+</div>
+
+---
+
+## `$ cat /etc/profile.d/arul.sh`
+
+```python
+#!/usr/bin/env python3
+
+class ArulMurugan:
+    def __init__(self):
+        self.name         = "Arul Murugan S"
+        self.location     = "Salem, Tamil Nadu, India 🇮🇳"
+        self.role         = "Cybersecurity Enthusiast | Ethical Hacker"
+        self.os           = ["Kali Linux 🐉", "Ubuntu", "Windows Server"]
+        self.focus        = [
+            "Penetration Testing",
+            "Web Application Security (OWASP Top 10)",
+            "Active Directory Exploitation",
+            "Bug Bounty Hunting",
+            "CTF Challenges",
+        ]
+        self.learning     = ["OSCP Path", "Red Teaming", "Reverse Engineering"]
+        self.certs_target = ["eJPT", "CompTIA Security+", "CEH", "OSCP"]
+        self.fun_fact     = "I break things legally 👾"
+
+    def current_status(self):
+        return "⚡ Leveling up on HackTheBox & TryHackMe every day"
+
+me = ArulMurugan()
+print(me.current_status())
+```
+
+---
+
+## `$ lsblk --skills`
+
+<div align="center">
+
+### 🖥️ OS & Environments
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🔐 Security Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 💻 Dev & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+</div>
+
+---
+
+## `$ ./projects --pinned --verbose`
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [🛡️ Wireless IDS/IPS](https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System) | Cost-effective wireless intrusion detection & prevention | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [🌫️ Air Quality Monitor](https://github.com/akarulmurugan/Air-Quality-Monitoring) | Real-time IoT air quality monitoring with alerting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [🐍 Python Projects](https://github.com/akarulmurugan/PythonProject) | Automation scripts, tools & Python experiments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [📊 Annual Report](https://github.com/akarulmurugan/Annual-Report) | Structured annual report web application | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Complete](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
+| [🌐 Portfolio](https://github.com/akarulmurugan/Portfolio) | Personal developer & security portfolio site | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [📜 Certificates](https://github.com/akarulmurugan/My_Certificate) | Earned certifications & achievements | — | ![Growing](https://img.shields.io/badge/growing-EF9F27?style=flat-square) |
+
+</div>
+
+---
+
+## `$ cat /var/log/waka_stats.log`
+
+> ⚙️ **WakaTime live coding stats** — updates automatically every day via GitHub Actions.
+> Setup: [see waka-readme.yml below](#setup-guide)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## `$ git log --all --graph --oneline`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akarulmurugan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akarulmurugan&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=888888" width="500"/>
+
+</div>
+
+---
+
+## `$ ./activity_graph.sh --theme=hacker`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarulmurugan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00330015&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ ./trophies.sh --display`
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=akarulmurugan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ tail -f /var/log/contribution-snake.log`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/akarulmurugan/akarulmurugan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/akarulmurugan/akarulmurugan/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" 
+       src="https://raw.githubusercontent.com/akarulmurugan/akarulmurugan/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## `$ nmap --learning-path 0.0.0.0`
+
+```
+TARGET: Become a Security Researcher & Bug Bounty Hunter
+
+[████████████████████░░░░]  Linux & CLI Mastery              80%
+[███████████████░░░░░░░░░]  Network Fundamentals             62%
+[██████████████░░░░░░░░░░]  Network Scanning (Nmap)          58%
+[████████████░░░░░░░░░░░░]  Web App Pentesting (OWASP)       50%
+[████████░░░░░░░░░░░░░░░░]  Active Directory Exploitation    35%
+[██████░░░░░░░░░░░░░░░░░░]  Red Team Operations              25%
+[████░░░░░░░░░░░░░░░░░░░░]  Bug Bounty Hunting               18%
+[██░░░░░░░░░░░░░░░░░░░░░░]  Reverse Engineering              10%
+```
+
+### 🎯 2025 Goals
+- [ ] 🏅 Earn **eJPT** — Junior Penetration Tester cert
+- [ ] 🏅 Earn **CompTIA Security+**
+- [ ] 🔴 Complete **PNPT** (Practical Network Pentest)
+- [ ] 📝 Publish **10 public CTF writeups**
+- [ ] 🐛 Submit first **bug bounty report**
+- [ ] 🔧 Open-source a **Python security tool**
+- [ ] 📚 Reach **TryHackMe Top 1%**
+
+---
+
+## `$ cat /etc/motd`
+
+<div align="center">
+
+> *"The quieter you become, the more you are able to hear."*
+> — **Kali Linux**
+
+---
+
+💬 Open to **CTF collabs**, **security project contributions**, and **learning together**
+
+📍 Salem, Tamil Nadu 🇮🇳 &nbsp;|&nbsp; 🕒 IST (UTC +5:30)
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/akarulmurugan)
+
+<br/>
+<sub>⚡ Auto-updated by GitHub Actions · Salem, Tamil Nadu 🇮🇳</sub>
+
+</div>
