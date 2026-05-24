@@ -112,10 +112,15 @@ print(ArulMurugan().status())
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=akarulmurugan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
+<!-- GitHub Stats -->
+<a href="https://github.com/akarulmurugan">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akarulmurugan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true" onerror="this.style.display='none'"/>
+</a>
+<a href="https://github.com/akarulmurugan">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=6" onerror="this.style.display='none'"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=akarulmurugan&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=888888" width="500"/>
 
@@ -137,7 +142,7 @@ print(ArulMurugan().status())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=akarulmurugan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=akarulmurugan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -174,7 +179,7 @@ TARGET: Become a Security Researcher & Bug Bounty Hunter
 [██░░░░░░░░░░░░░░░░░░░░░░]  Reverse Engineering              10%
 ```
 
-### 🎯 2025 Roadmap
+### 🎯 2027 Roadmap
 - [ ] 🏅 Earn **eJPT** — Junior Penetration Tester
 - [ ] 🏅 Earn **CompTIA Security+**
 - [ ] 📝 Publish **10 public CTF writeups**
