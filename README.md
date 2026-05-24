@@ -1,11 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ARUL MURUGAN S — GitHub Profile             -->
+<!--         ARUL MURUGAN S — GitHub Profile  |  Just paste this!  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;Arul+Murugan+S+%7C+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%24+whoami;Arul+Murugan+S+%7C+Cybersecurity+Enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -14,10 +13,10 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/akarulmurugan/Portfolio)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/akarulmurugan)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/akarulmurugan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/akarulmurugan/Portfolio)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akarulmurugan&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/akarulmurugan?color=00FF41&label=Followers&logo=github&style=flat-square)
@@ -26,7 +25,7 @@
 
 ---
 
-## `$ cat /etc/profile.d/arul.sh`
+## `$ cat about_me.py`
 
 ```python
 #!/usr/bin/env python3
@@ -48,11 +47,10 @@ class ArulMurugan:
         self.certs_target = ["eJPT", "CompTIA Security+", "CEH", "OSCP"]
         self.fun_fact     = "I break things legally 👾"
 
-    def current_status(self):
+    def status(self):
         return "⚡ Leveling up on HackTheBox & TryHackMe every day"
 
-me = ArulMurugan()
-print(me.current_status())
+print(ArulMurugan().status())
 ```
 
 ---
@@ -72,8 +70,8 @@ print(me.current_status())
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 
 ### 💻 Dev & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,7 +79,11 @@ print(me.current_status())
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
@@ -95,24 +97,14 @@ print(me.current_status())
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [🛡️ Wireless IDS/IPS](https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System) | Cost-effective wireless intrusion detection & prevention | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [🌫️ Air Quality Monitor](https://github.com/akarulmurugan/Air-Quality-Monitoring) | Real-time IoT air quality monitoring with alerting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [🐍 Python Projects](https://github.com/akarulmurugan/PythonProject) | Automation scripts, tools & Python experiments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [📊 Annual Report](https://github.com/akarulmurugan/Annual-Report) | Structured annual report web application | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Complete](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
-| [🌐 Portfolio](https://github.com/akarulmurugan/Portfolio) | Personal developer & security portfolio site | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Active](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [📜 Certificates](https://github.com/akarulmurugan/My_Certificate) | Earned certifications & achievements | — | ![Growing](https://img.shields.io/badge/growing-EF9F27?style=flat-square) |
+| [🛡️ Wireless IDS/IPS](https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System) | Cost-effective wireless intrusion detection & prevention | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [🌫️ Air Quality Monitor](https://github.com/akarulmurugan/Air-Quality-Monitoring) | Real-time IoT air quality monitoring with alerting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [🐍 Python Projects](https://github.com/akarulmurugan/PythonProject) | Automation scripts, tools & Python experiments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [📊 Annual Report](https://github.com/akarulmurugan/Annual-Report) | Structured annual report web application | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
+| [🌐 Portfolio](https://github.com/akarulmurugan/Portfolio) | Personal developer & security portfolio site | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
+| [📜 Certificates](https://github.com/akarulmurugan/My_Certificate) | Earned certifications & achievements | — | ![](https://img.shields.io/badge/growing-EF9F27?style=flat-square) |
 
 </div>
-
----
-
-## `$ cat /var/log/waka_stats.log`
-
-> ⚙️ **WakaTime live coding stats** — updates automatically every day via GitHub Actions.
-> Setup: [see waka-readme.yml below](#setup-guide)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -120,8 +112,8 @@ print(me.current_status())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akarulmurugan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=akarulmurugan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
 
 <br/>
 
@@ -131,11 +123,11 @@ print(me.current_status())
 
 ---
 
-## `$ ./activity_graph.sh --theme=hacker`
+## `$ ./activity_graph.sh`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarulmurugan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00330015&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarulmurugan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -151,7 +143,7 @@ print(me.current_status())
 
 ---
 
-## `$ tail -f /var/log/contribution-snake.log`
+## `$ tail -f contribution-snake.log`
 
 <div align="center">
 
@@ -160,7 +152,7 @@ print(me.current_status())
           srcset="https://raw.githubusercontent.com/akarulmurugan/akarulmurugan/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/akarulmurugan/akarulmurugan/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" 
+  <img alt="GitHub Contribution Snake"
        src="https://raw.githubusercontent.com/akarulmurugan/akarulmurugan/output/github-contribution-grid-snake.svg"/>
 </picture>
 
@@ -175,7 +167,6 @@ TARGET: Become a Security Researcher & Bug Bounty Hunter
 
 [████████████████████░░░░]  Linux & CLI Mastery              80%
 [███████████████░░░░░░░░░]  Network Fundamentals             62%
-[██████████████░░░░░░░░░░]  Network Scanning (Nmap)          58%
 [████████████░░░░░░░░░░░░]  Web App Pentesting (OWASP)       50%
 [████████░░░░░░░░░░░░░░░░]  Active Directory Exploitation    35%
 [██████░░░░░░░░░░░░░░░░░░]  Red Team Operations              25%
@@ -183,10 +174,9 @@ TARGET: Become a Security Researcher & Bug Bounty Hunter
 [██░░░░░░░░░░░░░░░░░░░░░░]  Reverse Engineering              10%
 ```
 
-### 🎯 2025 Goals
-- [ ] 🏅 Earn **eJPT** — Junior Penetration Tester cert
+### 🎯 2025 Roadmap
+- [ ] 🏅 Earn **eJPT** — Junior Penetration Tester
 - [ ] 🏅 Earn **CompTIA Security+**
-- [ ] 🔴 Complete **PNPT** (Practical Network Pentest)
 - [ ] 📝 Publish **10 public CTF writeups**
 - [ ] 🐛 Submit first **bug bounty report**
 - [ ] 🔧 Open-source a **Python security tool**
@@ -194,20 +184,15 @@ TARGET: Become a Security Researcher & Bug Bounty Hunter
 
 ---
 
-## `$ cat /etc/motd`
-
 <div align="center">
 
-> *"The quieter you become, the more you are able to hear."*
-> — **Kali Linux**
+> *"The quieter you become, the more you are able to hear."* — **Kali Linux**
 
----
-
-💬 Open to **CTF collabs**, **security project contributions**, and **learning together**
+💬 Open to CTF collabs, security projects & learning together
 
 📍 Salem, Tamil Nadu 🇮🇳 &nbsp;|&nbsp; 🕒 IST (UTC +5:30)
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarulmurugan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/akarulmurugan)
 
