@@ -97,7 +97,7 @@ print(ArulMurugan().status())
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [📱 NetHunter Setup](https://github.com/akarulmurugan/redmi-note8-nethunter) | Redmi Note 8 → LineageOS Android 16 + Kali Linux pentesting device | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
+| [📱 NetHunter Setup](https://github.com/akarulmurugan/redmi-note8-nethunter-setup) | Redmi Note 8 → LineageOS Android 16 + Kali Linux pentesting device | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
 | [🛡️ Wireless IDS/IPS](https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System) | Cost-effective wireless intrusion detection & prevention | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
 | [🌫️ Air Quality Monitor](https://github.com/akarulmurugan/Air-Quality-Monitoring) | Real-time IoT air quality monitoring with alerting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
 | [🐍 Python Projects](https://github.com/akarulmurugan/PythonProject) | Automation scripts, tools & Python experiments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
