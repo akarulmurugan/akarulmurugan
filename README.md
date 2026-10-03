@@ -1,155 +1,440 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--         ARUL MURUGAN S — GitHub Profile  |  Just paste this!  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%24+whoami;Arul+Murugan+S+%7C+Cybersecurity+Enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,2,5,30&text=ARUL%20MURUGAN%20S&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Security%20Operations%20%7C%20Network%20Security&descAlignY=58&animation=fadeIn"/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🔐 Penetration Tester in Training  |  Kali Linux User  🐉  ║
-║  🌐 Web Security  |  AD Exploitation  |  CTF Player  🎯     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/akarulmurugan)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/akarulmurugan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/akarulmurugan/Portfolio)
-
-![Profile Views](https://komarev.com/ghpvc/?username=akarulmurugan&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/akarulmurugan?color=00FF41&label=Followers&logo=github&style=flat-square)
-
-</div>
-
----
-
-## `$ cat about_me.py`
-
-```python
-#!/usr/bin/env python3
-
-class ArulMurugan:
-    def __init__(self):
-        self.name         = "Arul Murugan S"
-        self.location     = "Salem, Tamil Nadu, India 🇮🇳"
-        self.role         = "Cybersecurity Enthusiast | Ethical Hacker"
-        self.os           = ["Kali Linux 🐉", "Ubuntu", "Windows Server"]
-        self.focus        = [
-            "Penetration Testing",
-            "Web Application Security (OWASP Top 10)",
-            "Active Directory Exploitation",
-            "Bug Bounty Hunting",
-            "CTF Challenges",
-        ]
-        self.learning     = ["OSCP Path", "Red Teaming", "Reverse Engineering"]
-        self.certs_target = ["eJPT", "CompTIA Security+", "CEH", "OSCP"]
-        self.fun_fact     = "I break things legally 👾"
-
-    def status(self):
-        return "⚡ Leveling up on HackTheBox & TryHackMe every day"
-
-print(ArulMurugan().status())
-```
-
----
-
-## `$ lsblk --skills`
-
-<div align="center">
-
-### 🖥️ OS & Environments
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔐 Security Tools
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-
-### 💻 Dev & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-</div>
-
----
-
-## `$ ./projects --pinned --verbose`
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [📱 NetHunter Setup](https://github.com/akarulmurugan/redmi-note8-nethunter-setup) | Redmi Note 8 → LineageOS Android 16 + Kali Linux pentesting device | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
-| [🛡️ Wireless IDS/IPS](https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System) | Cost-effective wireless intrusion detection & prevention | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [🌫️ Air Quality Monitor](https://github.com/akarulmurugan/Air-Quality-Monitoring) | Real-time IoT air quality monitoring with alerting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [🐍 Python Projects](https://github.com/akarulmurugan/PythonProject) | Automation scripts, tools & Python experiments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [📊 Annual Report](https://github.com/akarulmurugan/Annual-Report) | Structured annual report web application | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/badge/complete-0077B5?style=flat-square) |
-| [🌐 Portfolio](https://github.com/akarulmurugan/Portfolio) | Personal developer & security portfolio site | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![](https://img.shields.io/badge/active-00FF41?style=flat-square) |
-| [📜 Certificates](https://github.com/akarulmurugan/My_Certificate) | Earned certifications & achievements | — | ![](https://img.shields.io/badge/growing-EF9F27?style=flat-square) |
-
-</div>
-
----
-
-## `$ git log --all --graph --oneline`
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<a href="https://github.com/akarulmurugan">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akarulmurugan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true" onerror="this.style.display='none'"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&center=true&vCenter=true&width=900&lines=%3E+Initializing+Cybersecurity+Profile...;%3E+Security+Operations+%7C+Threat+Detection+%7C+Network+Security;%3E+Wireless+Security+%7C+Vulnerability+Assessment;%3E+Python+%7C+Linux+%7C+ESP32+%7C+Security+Automation;%3E+Building.+Breaking.+Detecting.+Defending." />
 </a>
-<a href="https://github.com/akarulmurugan">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=6" onerror="this.style.display='none'"/>
-</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arul_Murugan_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-murugan-s)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Arul404-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Arul404)
+[![Medium](https://img.shields.io/badge/Medium-Technical_Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arul31242k)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Cybersecurity-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://akarulmurugan.github.io/Portfolio/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=akarulmurugan&label=PROFILE%20VIEWS&style=flat-square)
+![Followers](https://img.shields.io/github/followers/akarulmurugan?label=FOLLOWERS&style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/akarulmurugan?affiliations=OWNER&label=STARS&style=flat-square&logo=github)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff88,50:00aaff,100:7c3aed"/>
+
+# `> whoami`
+
+```text
+╔════════════════════════ SECURITY PROFILE ════════════════════════╗
+║                                                                  ║
+║  OPERATOR      : Arul Murugan S                                  ║
+║  DOMAIN        : Cybersecurity                                   ║
+║  PRIMARY       : Security Operations                             ║
+║  SPECIALTY     : Network & Wireless Security                     ║
+║  SECONDARY     : Offensive Security                              ║
+║                                                                  ║
+║  PLATFORMS     : Linux • Windows • Android                       ║
+║  SCRIPTING     : Python • Bash                                   ║
+║  HARDWARE      : ESP32 • Wi-Fi Adapters • IoT                    ║
+║                                                                  ║
+║  STATUS        : ● ACTIVE                                        ║
+║  OBJECTIVE     : Detect → Analyze → Defend                       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+I am a **B.E. Cyber Security student** focused on practical cybersecurity engineering.
+
+My work revolves around:
+
+- Security Operations
+- Network Security
+- Wireless Security
+- Vulnerability Assessment
+- Linux Security
+- Web Application Security
+- Active Directory Labs
+- Threat Detection
+- Penetration Testing
+- Security Automation
+
+I enjoy building security systems, analyzing network behavior, experimenting with defensive and offensive technologies, and documenting everything I learn.
+
+---
+
+# 🛡️ Flagship Security Engineering Project
+
+<div align="center">
+
+## Wireless Intrusion Detection & Prevention System
+
+### `Detect → Analyze → Isolate → Authorize → Monitor`
+
+</div>
+
+```text
+                         ┌────────────────────┐
+                         │    Wi-Fi Network   │
+                         └─────────┬──────────┘
+                                   │
+                            802.11 / ARP Traffic
+                                   │
+                    ┌──────────────▼──────────────┐
+                    │         ESP32 SENSOR        │
+                    │                            │
+                    │  Wireless Frame Monitoring │
+                    │  Channel Observation       │
+                    │  Telemetry Collection      │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │      DETECTION ENGINE       │
+                    │                             │
+                    │      Python + Scapy         │
+                    │      Flask Backend          │
+                    └──────────────┬──────────────┘
+                                   │
+             ┌─────────────────────┼─────────────────────┐
+             │                     │                     │
+             ▼                     ▼                     ▼
+    ┌────────────────┐   ┌──────────────────┐   ┌────────────────┐
+    │ ALERT ENGINE   │   │ NETWORK CONTROL  │   │ DATA STORAGE   │
+    │                │   │                  │   │                │
+    │ Telegram       │   │ iptables         │   │ SQLite         │
+    │ Threat Alerts  │   │ Device Isolation │   │ Events         │
+    └───────┬────────┘   └─────────┬────────┘   └───────┬────────┘
+            │                      │                    │
+            └──────────────────────┼────────────────────┘
+                                   │
+                                   ▼
+                       ┌─────────────────────┐
+                       │  ADMIN DASHBOARD    │
+                       │                     │
+                       │ Devices             │
+                       │ Threats             │
+                       │ Authorization       │
+                       │ OTP Workflow        │
+                       │ Monitoring          │
+                       └─────────────────────┘
+```
+
+### Core Features
+
+- ESP32-assisted wireless monitoring
+- Unauthorized-device detection
+- Passive network discovery
+- Python/Flask security backend
+- Scapy packet analysis
+- Network isolation using Linux firewall controls
+- Captive portal authentication
+- OTP authorization workflow
+- Telegram security alerts
+- SQLite event logging
+- Administrative dashboard
+- IPv4 / IPv6 traffic controls
+
+### Technology
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scapy-Packet_Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</p>
+
+<div align="center">
+
+[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-WIRELESS_IDS_IPS-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System)
+
+</div>
+
+---
+
+# 📱 Portable Mobile Security Lab
+
+<div align="center">
+
+## Redmi Note 8 + Kali NetHunter
+
+### `Android → Root → Linux → Wireless Security Lab`
+
+</div>
+
+```text
+                  ┌────────────────────┐
+                  │    REDMI NOTE 8    │
+                  │     ginkgo         │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │     LineageOS      │
+                  │     Android        │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │       Magisk       │
+                  │      Root Layer    │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                ┌─────────────────────────┐
+                │   Kali NetHunter Lab    │
+                │                         │
+                │ Kali Chroot             │
+                │ KeX Desktop             │
+                │ Security Tooling        │
+                └────────────┬────────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+        ┌──────────┐   ┌──────────┐   ┌──────────┐
+        │ Wireless │   │ USB / OTG│   │  Linux   │
+        │ Security │   │ Hardware │   │ Security │
+        └──────────┘   └──────────┘   └──────────┘
+```
+
+### Lab Capabilities
+
+- Kali NetHunter environment
+- Rooted Android security lab
+- Linux chroot
+- KeX desktop
+- External wireless adapters
+- RTL8812AU experimentation
+- USB OTG
+- Monitor-mode testing
+- Packet capture
+- Network security tools
+- Kernel/module troubleshooting
+
+<div align="center">
+
+[![NetHunter Lab](https://img.shields.io/badge/VIEW-NETHUNTER_SECURITY_LAB-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/akarulmurugan/redmi-note8-nethunter-setup)
+
+</div>
+
+---
+
+# ⚡ Security Technology Stack
+
+<div align="center">
+
+### Development & Platforms
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,flask,mysql,html,css,js,vscode&perline=12"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=akarulmurugan&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=888888" width="500"/>
+### Security Environment
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenVAS-3A7D44?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
 </div>
 
 ---
 
-## `$ ./activity_graph.sh`
+# 🧠 Security Capability Matrix
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                    SECURITY CAPABILITIES                        │
+├───────────────────────────────┬─────────────────────────────────┤
+│ DEFENSIVE SECURITY            │ OFFENSIVE SECURITY              │
+├───────────────────────────────┼─────────────────────────────────┤
+│ ✔ Network Monitoring          │ ✔ Reconnaissance                │
+│ ✔ Packet Analysis             │ ✔ Enumeration                   │
+│ ✔ Threat Investigation        │ ✔ Web Security Labs             │
+│ ✔ Wireless Monitoring         │ ✔ Active Directory Labs         │
+│ ✔ Vulnerability Analysis      │ ✔ Metasploit Labs               │
+│ ✔ Firewall Controls           │ ✔ Burp Suite Testing            │
+│ ✔ Security Event Review       │ ✔ CTF Challenges                │
+│ ✔ Device Detection            │ ✔ Network Pentesting Labs       │
+└───────────────────────────────┴─────────────────────────────────┘
+```
+
+---
+
+# 🎯 Cybersecurity Focus Map
+
+```text
+                         SECURITY OPERATIONS
+                                ▲
+                                │
+                                │
+          THREAT HUNTING ◄──────┼──────► NETWORK SECURITY
+                                │
+                                │
+                                │
+               RED TEAM ◄───────●───────► WIRELESS SECURITY
+                                │
+                                │
+                                │
+        WEB SECURITY ◄──────────┼──────────► VULNERABILITY
+                                │              ASSESSMENT
+                                │
+                                ▼
+                         SECURITY RESEARCH
+```
+
+---
+
+# 🧪 Security Lab Environment
+
+```text
+┌─────────────────────── CYBER RANGE ─────────────────────────┐
+│                                                            │
+│  ATTACK SYSTEMS               TARGET SYSTEMS                │
+│                                                            │
+│  Kali Linux                   Windows 11                    │
+│  Parrot Security              Windows Server                │
+│  Kali NetHunter               Ubuntu Server                 │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  NETWORK / HARDWARE                                         │
+│                                                            │
+│  ESP32                       External Wi-Fi Adapter         │
+│  Wi-Fi Monitoring            VMware Virtual Networks       │
+│  Packet Capture              Wireless Security Labs        │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  PRACTICE AREAS                                            │
+│                                                            │
+│  Reconnaissance      Enumeration       Vulnerability       │
+│  Packet Analysis     Web Security      Active Directory    │
+│  Wireless Security   Threat Analysis   Linux Security      │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛰️ Practical Training
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarulmurugan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## TryHackMe
+
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-Arul404-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Arul404)
 
 </div>
 
+```text
+┌────────────────── PRACTICAL SECURITY TRAINING ──────────────────┐
+│                                                                 │
+│ PROFILE       : Arul404                                         │
+│ PLATFORM      : TryHackMe                                       │
+│                                                                 │
+│ FOCUS         : Security Fundamentals                           │
+│                 Network Security                                │
+│                 Enumeration                                     │
+│                 Offensive Security                              │
+│                 Linux                                           │
+│                 Web Security                                    │
+│                                                                 │
+│ STATUS        : Continuous Hands-On Learning                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 ---
 
-## `$ ./trophies.sh --display`
+# 🎓 Hands-On Learning
+
+### CEH v13 Labs
+
+Practical exposure across areas including:
+
+`Footprinting` • `Reconnaissance` • `Enumeration` • `Vulnerability Analysis` • `Malware Threats` • `Sniffing` • `Web Security` • `Network Security`
+
+### Cybersecurity Internships
+
+#### Ozone Cyber Security
+
+Focused on:
+
+- Web Application Penetration Testing
+- Vulnerability Assessment
+- Security Testing Fundamentals
+
+#### ShadowFox Cyber Security
+
+Hands-on experience with:
+
+- Nmap
+- Gobuster
+- Wireshark
+- Network reconnaissance
+- Password security
+- Python security exercises
+
+---
+
+# 🏆 Certifications & Achievements
+
+```text
+╔════════════════════════ ACHIEVEMENTS ═════════════════════════╗
+║                                                               ║
+║  ◈ Certified Red Team Operations Management                  ║
+║  ◈ Certified SME Cyber Security Officer                      ║
+║  ◈ IoT with Raspberry Pi                                     ║
+║  ◈ Cybersecurity Internship Experience                       ║
+║  ◈ CTF Participation                                         ║
+║  ◈ First Prize — Cybersecurity CTF                           ║
+║  ◈ TryHackMe Practical Learning                              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+> Projects, labs and practical technical evidence are my primary focus.
+
+---
+
+# 📊 GitHub Engineering Activity
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=akarulmurugan&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarulmurugan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarulmurugan&layout=compact&hide_border=true&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akarulmurugan&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=akarulmurugan&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## `$ tail -f contribution-snake.log`
+# 🐍 Contribution Matrix
 
 <div align="center">
 
@@ -166,43 +451,162 @@ print(ArulMurugan().status())
 
 ---
 
-## `$ nmap --learning-path 0.0.0.0`
-
-```
-TARGET: Become a Security Researcher & Bug Bounty Hunter
-
-[████████████████████░░░░]  Linux & CLI Mastery              80%
-[███████████████░░░░░░░░░]  Network Fundamentals             62%
-[████████████░░░░░░░░░░░░]  Web App Pentesting (OWASP)       50%
-[████████░░░░░░░░░░░░░░░░]  Active Directory Exploitation    35%
-[██████░░░░░░░░░░░░░░░░░░]  Red Team Operations              25%
-[████░░░░░░░░░░░░░░░░░░░░]  Bug Bounty Hunting               18%
-[██░░░░░░░░░░░░░░░░░░░░░░]  Reverse Engineering              10%
-```
-
-### 🎯 2027 Roadmap
-- [ ] 🏅 Earn **eJPT** — Junior Penetration Tester
-- [ ] 🏅 Earn **CompTIA Security+**
-- [ ] 📝 Publish **10 public CTF writeups**
-- [ ] 🐛 Submit first **bug bounty report**
-- [ ] 🔧 Open-source a **Python security tool**
-- [ ] 📚 Reach **TryHackMe Top 1%**
-
----
+# 📝 Technical Writing
 
 <div align="center">
 
-> *"The quieter you become, the more you are able to hear."* — **Kali Linux**
+[![Medium](https://img.shields.io/badge/READ_MY-SECURITY_ARTICLES-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arul31242k)
 
-💬 Open to CTF collabs, security projects & learning together
+</div>
 
-📍 Salem, Tamil Nadu 🇮🇳 &nbsp;|&nbsp; 🕒 IST (UTC +5:30)
+I use technical writing to document:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarulmurugan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarulmurugan)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/akarulmurugan)
+- Cybersecurity labs
+- Security projects
+- Network security concepts
+- Troubleshooting
+- Linux
+- Wireless security
+- Practical learning
+
+---
+
+# 🚀 Current Development Roadmap
+
+```text
+[ SECURITY OPERATIONS ]
+
+[+] Improve SOC investigation workflow
+[+] Strengthen SIEM knowledge
+[+] Study detection engineering
+[+] Practice threat hunting
+[+] Improve incident analysis
+
+
+[ OFFENSIVE SECURITY ]
+
+[+] Expand Active Directory labs
+[+] Improve web application testing
+[+] Continue penetration-testing practice
+[+] Develop red-team fundamentals
+
+
+[ ENGINEERING ]
+
+[+] Build Python security automation
+[+] Improve WIDS/IPS platform
+[+] Develop a mini SOC lab
+[+] Build detection-focused projects
+[+] Publish technical security research
+```
+
+---
+
+# 🧩 Planned Security Projects
+
+### `01 — Mini SOC Lab`
+
+```text
+Windows Endpoint
+      │
+      ▼
+   Sysmon
+      │
+      ▼
+Log Collection
+      │
+      ▼
+    SIEM
+      │
+      ▼
+Detection Rules
+      │
+      ▼
+Investigation
+      │
+      ▼
+MITRE ATT&CK Mapping
+```
+
+Potential technologies:
+
+`Wazuh` • `Sysmon` • `Suricata` • `Sigma` • `Windows` • `Linux`
+
+---
+
+### `02 — Security Automation Toolkit`
+
+Planned utilities:
+
+- Network reconnaissance automation
+- Log-analysis scripts
+- IOC parsing
+- File hash analysis
+- Security reporting
+- Network utilities
+
+Primary language:
+
+`Python`
+
+---
+
+# 📦 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/akarulmurugan/Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akarulmurugan&repo=Cost-Effective-Wireless-Intrusion-Detection-and-Prevention-System&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/akarulmurugan/redmi-note8-nethunter-setup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akarulmurugan&repo=redmi-note8-nethunter-setup&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/akarulmurugan/cyber-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akarulmurugan&repo=cyber-portfolio&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/akarulmurugan/Air-Quality-Monitoring">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akarulmurugan&repo=Air-Quality-Monitoring&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+### `> Connection available`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-murugan-s)
+
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarulmurugan)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Arul404-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Arul404)
+
+[![Medium](https://img.shields.io/badge/Medium-READ-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arul31242k)
 
 <br/>
-<sub>⚡ Auto-updated by GitHub Actions · Salem, Tamil Nadu 🇮🇳</sub>
+
+```text
+[ SYSTEM ] Profile Online
+
+[ STATUS ] Learning • Building • Detecting • Defending
+
+[ FOCUS  ] Security Operations • Network Security • Cybersecurity
+
+[ ACCESS ] Open to Cybersecurity Internships & Entry-Level Opportunities
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,2,5,30"/>
+
+<div align="center">
+
+**`Security is not a product, but a process.`**
 
 </div>
